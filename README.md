@@ -1,3 +1,3 @@
 # idkman
  ?_? HuhHHhh
-code for skool project 
+some codes for a skool project 
